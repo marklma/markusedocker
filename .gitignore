@@ -1,0 +1,12 @@
+# built application files
+*.apk
+*.ap_
+# files for the dex VM
+*.dex
+# Java class files
+*.class
+# Eclipse project files
+.classpath
+.project
+.DS_Store
+/.settings/
