@@ -1,4 +1,4 @@
-FROM  daocloud.io/daocloud/dao-tomcat:v7.0.55
+FROM  daocloud/dao-tomcat:v7.0.55
 
 # clean ROOT
 RUN rm -R -f /tomcat/webapps/ROOT
